@@ -3,7 +3,7 @@ The objective is to highlight articles introducing a concept/technology from ano
 
 ###For Developers
   * [Typography](https://medium.com/hh-design/typography-for-developers-975cf2abd1e#.3nw2fuua7)
-  * [Unicode](http://www.joelonsoftware.com/articles/Unicode.html)
+  * [Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
 ###For Lawyers
